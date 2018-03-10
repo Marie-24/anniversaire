@@ -1,0 +1,48 @@
+
+
+
+#container-fluid {
+    border: 2px solid #DC143C;
+    border-radius: 30px;
+    margin: 10px auto;
+    width: 400px;
+    min-height: 500px;
+    padding: 5px;
+    font-family: 'Give You Glory', cursive;
+}
+
+
+#first, #second,#third,#ligne {
+    display: block;
+    margin-top:20px;
+    margin-left: auto;
+    margin-right: auto
+}
+#first {
+    font-size: 25px;
+    color:darkorange;
+    margin-top:30px;
+   
+}
+#second {
+    font-size: 30px;
+    color: orangered;
+    margin-top: 10px;
+}
+
+#third {
+    font-size: 35px;
+    color: red;
+    margin-top: 30px;
+}
+
+p
+{text-align:center;
+ margin-top:10px;
+ font-size:25px;
+}
+
+
+span{
+color:orangered;
+}
