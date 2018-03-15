@@ -1,8 +1,0 @@
-J'ai voulu une carte d'anniversaire épurée, avec un effet surprise:
-
-j'ai commencé par choirir tous les éléments que j'allais intégrer à la page, en les positionnant par ligne.
-enfin j'ai choisi de "superposer" les premiers effets jquery.
-J'ai aussi sélectionné la typo en amont.
-En fait, j'ai trouvé que le plus simple était de schématiser tout par dessin puis de déterminer chaque ajout de jQuery.
-
-J'ai préféré mettre le petit son au début.
